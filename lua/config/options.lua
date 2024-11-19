@@ -3,3 +3,4 @@
 -- Add any additional options here
 
 vim.opt.background = "light"
+vim.g.lazyvim_python_ruff = "ruff"
