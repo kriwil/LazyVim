@@ -4,3 +4,4 @@
 
 vim.opt.background = "light"
 vim.g.lazyvim_python_ruff = "ruff"
+vim.g.zenbones_lightness = "bright"
